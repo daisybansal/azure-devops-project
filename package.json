@@ -1,0 +1,15 @@
+{
+  "name": "azure-devops-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  },
+  "description": "## Overview This project demonstrates CI/CD deployment automation using GitHub Actions and Azure App Service.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
